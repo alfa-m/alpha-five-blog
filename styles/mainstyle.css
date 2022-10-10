@@ -14,7 +14,7 @@ nav {
   align-content: center;
   justify-content: space-evenly;
   align-items: center;
-  background-color: crimson;
+  background-color: brown;
 }
 
 header {
@@ -123,7 +123,7 @@ li {
 /* Visual Elements */
 button {
   border: transparent;
-  background-color: var(--main-color);
+  background-color: transparent;
   color: var(--text-color);
 }
 
